@@ -1,0 +1,17 @@
+{
+    "name": "react-dropzone-component",
+    "description": "A Dropzone Component for ReactJS",
+    "repos": "https://github.com/felixrieseberg/React-Dropzone.git",
+    "main": "lib/react-dropzone.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "dropzone": "^4.2.0",
+        "react-dom": "^0.14.0",
+        "react": ">=0.13 || >0.14.0-alpha"
+    },
+    "paths": {
+        "dist": "."
+    },
+    "version": "0.7.0"
+}
